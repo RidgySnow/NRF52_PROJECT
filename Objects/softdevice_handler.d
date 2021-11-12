@@ -1,0 +1,10 @@
+.\objects\softdevice_handler.o: RTE\nRF_SoftDevice\nRF52832_xxAA\softdevice_handler.c
+.\objects\softdevice_handler.o: d:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_SoftDevice_Common\2.0.0-2.alpha\softdevice_handler\softdevice_handler.h
+.\objects\softdevice_handler.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\softdevice_handler.o: d:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util\nordic_common.h
+.\objects\softdevice_handler.o: d:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_SoftDevice_S210\5.0.2\headers\nrf_sdm.h
+.\objects\softdevice_handler.o: d:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_SoftDevice_S210\5.0.2\headers\nrf_svc.h
+.\objects\softdevice_handler.o: d:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.32.1\Device\Include\nrf51.h
+.\objects\softdevice_handler.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h
+.\objects\softdevice_handler.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\softdevice_handler.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h

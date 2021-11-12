@@ -1,0 +1,257 @@
+Dependencies for Project 'vgm', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::.\ARMCC
+F (.\Src\main.c)(0x6051E3C4)(--c99 -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\Src-I.\RTE\Device\nRF52832_xxAA-I.\RTE\_Target_1-I.\RTE\nRF_Libraries\nRF52832_xxAA-I"D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\nrf_soc_nosd"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util"-D__UVISION_VERSION="530" -D_RTE_ -DNRF52832_XXAA -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdint.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdbool.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\math.h)(0x5E5396AA)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\string.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\system_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_bitfields.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf51_to_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_name_change.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\compiler_abstraction.h)(0x6001A06E)
+I (Src\main.h)(0x602B8441)
+I (Src\gpio.h)(0x60505FC8)
+I (Src\uart.h)(0x602CF6D8)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal\nrf_gpio.h)(0x5673CB2A)
+F (.\Src\gpio.c)(0x6051CB03)(--c99 -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\Src-I.\RTE\Device\nRF52832_xxAA-I.\RTE\_Target_1-I.\RTE\nRF_Libraries\nRF52832_xxAA-I"D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\nrf_soc_nosd"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util"-D__UVISION_VERSION="530" -D_RTE_ -DNRF52832_XXAA -D_RTE_-o .\objects\gpio.o --omf_browse .\objects\gpio.crf --depend .\objects\gpio.d)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdint.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdbool.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\system_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_bitfields.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf51_to_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_name_change.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\compiler_abstraction.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf_erratas.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf51_erratas.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_erratas.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf53_erratas.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf91_erratas.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal\nrf_gpio.h)(0x5673CB2A)
+I (Src\gpio.h)(0x60505FC8)
+F (.\Src\gpio.h)(0x60505FC8)()
+F (.\Src\timer.c)(0x603F6EC7)(--c99 -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\Src-I.\RTE\Device\nRF52832_xxAA-I.\RTE\_Target_1-I.\RTE\nRF_Libraries\nRF52832_xxAA-I"D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\nrf_soc_nosd"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util"-D__UVISION_VERSION="530" -D_RTE_ -DNRF52832_XXAA -D_RTE_-o .\objects\timer.o --omf_browse .\objects\timer.crf --depend .\objects\timer.d)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal\nrf_timer.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stddef.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdbool.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdint.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\system_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_bitfields.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf51_to_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_name_change.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\compiler_abstraction.h)(0x6001A06E)
+I (.\RTE\nRF_Libraries\nRF52832_xxAA\nrf_assert.h)(0x5673CB2A)
+I (.\RTE\nRF_Libraries\nRF52832_xxAA\app_error.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdio.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util\sdk_errors.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\nrf_soc_nosd\nrf_error.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util\nordic_common.h)(0x5673CB2A)
+I (Src\timer.h)(0x603E0D4F)
+I (Src\main.h)(0x602B8441)
+F (.\Src\timer.h)(0x603E0D4F)()
+F (.\Src\radio.c)(0x5FFDCED4)(--c99 -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\Src-I.\RTE\Device\nRF52832_xxAA-I.\RTE\_Target_1-I.\RTE\nRF_Libraries\nRF52832_xxAA-I"D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\nrf_soc_nosd"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util"-D__UVISION_VERSION="530" -D_RTE_ -DNRF52832_XXAA -D_RTE_-o .\objects\radio.o --omf_browse .\objects\radio.crf --depend .\objects\radio.d)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdbool.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdint.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\system_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_bitfields.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf51_to_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_name_change.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\compiler_abstraction.h)(0x6001A06E)
+I (.\RTE\nRF_Libraries\nRF52832_xxAA\nrf_assert.h)(0x5673CB2A)
+I (.\RTE\nRF_Libraries\nRF52832_xxAA\app_error.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdio.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util\sdk_errors.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\nrf_soc_nosd\nrf_error.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util\nordic_common.h)(0x5673CB2A)
+I (Src\radio.h)(0x5FFD6F15)
+I (Src\main.h)(0x602B8441)
+F (.\Src\radio.h)(0x5FFD6F15)()
+F (.\Src\uart.c)(0x6051CADE)(--c99 -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\Src-I.\RTE\Device\nRF52832_xxAA-I.\RTE\_Target_1-I.\RTE\nRF_Libraries\nRF52832_xxAA-I"D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\nrf_soc_nosd"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util"-D__UVISION_VERSION="530" -D_RTE_ -DNRF52832_XXAA -D_RTE_-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal\nrf_uart.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdint.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\system_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_bitfields.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf51_to_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_name_change.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\compiler_abstraction.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stddef.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdbool.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal\nrf_gpio.h)(0x5673CB2A)
+I (Src\uart.h)(0x602CF6D8)
+I (Src\main.h)(0x602B8441)
+F (.\Src\uart.h)(0x602CF6D8)()
+F (.\Src\main.h)(0x602B8441)()
+F (.\Src\spi.c)(0x5FF856FC)(--c99 -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\Src-I.\RTE\Device\nRF52832_xxAA-I.\RTE\_Target_1-I.\RTE\nRF_Libraries\nRF52832_xxAA-I"D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\nrf_soc_nosd"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util"-D__UVISION_VERSION="530" -D_RTE_ -DNRF52832_XXAA -D_RTE_-o .\objects\spi.o --omf_browse .\objects\spi.crf --depend .\objects\spi.d)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal\nrf_spi.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stddef.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdbool.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdint.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\system_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_bitfields.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf51_to_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_name_change.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\compiler_abstraction.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal\nrf_gpio.h)(0x5673CB2A)
+I (Src\spi.h)(0x5FF856FC)
+I (Src\main.h)(0x602B8441)
+F (.\Src\spi.h)(0x5FF856FC)()
+F (.\Src\adc.c)(0x5FFDBAA3)(--c99 -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\Src-I.\RTE\Device\nRF52832_xxAA-I.\RTE\_Target_1-I.\RTE\nRF_Libraries\nRF52832_xxAA-I"D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\nrf_soc_nosd"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util"-D__UVISION_VERSION="530" -D_RTE_ -DNRF52832_XXAA -D_RTE_-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal\nrf_saadc.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdbool.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stddef.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdint.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\system_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_bitfields.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf51_to_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_name_change.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\compiler_abstraction.h)(0x6001A06E)
+I (.\RTE\nRF_Libraries\nRF52832_xxAA\nrf_assert.h)(0x5673CB2A)
+I (.\RTE\nRF_Libraries\nRF52832_xxAA\app_error.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdio.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util\sdk_errors.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\nrf_soc_nosd\nrf_error.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util\nordic_common.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal\nrf_gpio.h)(0x5673CB2A)
+I (Src\adc.h)(0x5FFDBE3D)
+I (Src\main.h)(0x602B8441)
+F (.\Src\adc.h)(0x5FFDBE3D)()
+F (RTE\Device\nRF52832_xxAA\arm_startup_nrf52.s)(0x5E5F976E)(--cpu Cortex-M4.fp.sp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\Device\nRF52832_xxAA-I.\RTE\_Target_1-I.\RTE\nRF_Libraries\nRF52832_xxAA-I"D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\nrf_soc_nosd"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util"--pd "__UVISION_VERSION SETA 530" --pd "_RTE_ SETA 1" --pd "NRF52832_XXAA SETA 1" --pd "_RTE_ SETA 1"--list .\listings\arm_startup_nrf52.lst --xref -o .\objects\arm_startup_nrf52.o --depend .\objects\arm_startup_nrf52.d)
+F (RTE\Device\nRF52832_xxAA\startup_config.h)(0x5E5F977A)()
+F (RTE\Device\nRF52832_xxAA\system_nrf52.c)(0x5E5F9778)(--c99 -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\Src-I.\RTE\Device\nRF52832_xxAA-I.\RTE\_Target_1-I.\RTE\nRF_Libraries\nRF52832_xxAA-I"D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\nrf_soc_nosd"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util"-D__UVISION_VERSION="530" -D_RTE_ -DNRF52832_XXAA -D_RTE_-o .\objects\system_nrf52.o --omf_browse .\objects\system_nrf52.crf --depend .\objects\system_nrf52.d)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdint.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdbool.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\system_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_bitfields.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf51_to_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_name_change.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\compiler_abstraction.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf_erratas.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf51_erratas.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_erratas.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf53_erratas.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf91_erratas.h)(0x6001A06E)
+F (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal\nrf_saadc.c)(0x5673CB2A)(--c99 -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\Src-I.\RTE\Device\nRF52832_xxAA-I.\RTE\_Target_1-I.\RTE\nRF_Libraries\nRF52832_xxAA-I"D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\nrf_soc_nosd"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util"-D__UVISION_VERSION="530" -D_RTE_ -DNRF52832_XXAA -D_RTE_-o .\objects\nrf_saadc.o --omf_browse .\objects\nrf_saadc.crf --depend .\objects\nrf_saadc.d)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal\nrf_saadc.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdbool.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stddef.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdint.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\system_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_bitfields.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf51_to_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_name_change.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\compiler_abstraction.h)(0x6001A06E)
+I (.\RTE\nRF_Libraries\nRF52832_xxAA\nrf_assert.h)(0x5673CB2A)
+I (.\RTE\nRF_Libraries\nRF52832_xxAA\app_error.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdio.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util\sdk_errors.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\nrf_soc_nosd\nrf_error.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util\nordic_common.h)(0x5673CB2A)
+F (RTE\nRF_Libraries\nRF52832_xxAA\app_error.c)(0x5673CB2A)(--c99 -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\Src-I.\RTE\Device\nRF52832_xxAA-I.\RTE\_Target_1-I.\RTE\nRF_Libraries\nRF52832_xxAA-I"D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\nrf_soc_nosd"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util"-D__UVISION_VERSION="530" -D_RTE_ -DNRF52832_XXAA -D_RTE_-o .\objects\app_error.o --omf_browse .\objects\app_error.crf --depend .\objects\app_error.d)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdint.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\system_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_bitfields.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf51_to_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_name_change.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\compiler_abstraction.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdio.h)(0x5E5396AC)
+I (RTE\nRF_Libraries\nRF52832_xxAA\app_error.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdbool.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util\sdk_errors.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\nrf_soc_nosd\nrf_error.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util\nordic_common.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util\nrf_log.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdarg.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util\app_util.h)(0x5673CB2A)
+F (RTE\nRF_Libraries\nRF52832_xxAA\app_error.h)(0x5673CB2A)()
+F (RTE\nRF_Libraries\nRF52832_xxAA\nrf_assert.c)(0x5673CB2A)(--c99 -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\Src-I.\RTE\Device\nRF52832_xxAA-I.\RTE\_Target_1-I.\RTE\nRF_Libraries\nRF52832_xxAA-I"D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\hal"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\nrf_soc_nosd"-I"D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util"-D__UVISION_VERSION="530" -D_RTE_ -DNRF52832_XXAA -D_RTE_-o .\objects\nrf_assert.o --omf_browse .\objects\nrf_assert.crf --depend .\objects\nrf_assert.d)
+I (RTE\nRF_Libraries\nRF52832_xxAA\nrf_assert.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdint.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\system_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_bitfields.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf51_to_nrf52.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_name_change.h)(0x6001A06E)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\compiler_abstraction.h)(0x6001A06E)
+I (RTE\nRF_Libraries\nRF52832_xxAA\app_error.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdio.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\ARM\ARMCC\include\stdbool.h)(0x5E5396AC)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util\sdk_errors.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\nrf_soc_nosd\nrf_error.h)(0x5673CB2A)
+I (D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_Libraries\4.0.0-2.alpha\util\nordic_common.h)(0x5673CB2A)
+F (RTE\nRF_Libraries\nRF52832_xxAA\nrf_assert.h)(0x5673CB2A)()

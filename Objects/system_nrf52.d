@@ -1,0 +1,20 @@
+.\objects\system_nrf52.o: RTE\Device\nRF52832_xxAA\system_nrf52.c
+.\objects\system_nrf52.o: D:\Program Files\MDK-ARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\system_nrf52.o: D:\Program Files\MDK-ARM\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\system_nrf52.o: D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf.h
+.\objects\system_nrf52.o: D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52.h
+.\objects\system_nrf52.o: D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h
+.\objects\system_nrf52.o: D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\system_nrf52.o: D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\system_nrf52.o: D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\system_nrf52.o: D:\Program Files\MDK-ARM\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h
+.\objects\system_nrf52.o: D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\system_nrf52.h
+.\objects\system_nrf52.o: D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_bitfields.h
+.\objects\system_nrf52.o: D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf51_to_nrf52.h
+.\objects\system_nrf52.o: D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_name_change.h
+.\objects\system_nrf52.o: D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\compiler_abstraction.h
+.\objects\system_nrf52.o: D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf_erratas.h
+.\objects\system_nrf52.o: D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf51_erratas.h
+.\objects\system_nrf52.o: D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf52_erratas.h
+.\objects\system_nrf52.o: D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf53_erratas.h
+.\objects\system_nrf52.o: D:\Program Files\MDK-ARM\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.38.0\Device\Include\nrf91_erratas.h

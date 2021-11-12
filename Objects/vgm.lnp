@@ -1,0 +1,17 @@
+--cpu=Cortex-M4.fp.sp
+".\objects\main.o"
+".\objects\gpio.o"
+".\objects\timer.o"
+".\objects\radio.o"
+".\objects\uart.o"
+".\objects\spi.o"
+".\objects\adc.o"
+".\objects\arm_startup_nrf52.o"
+".\objects\system_nrf52.o"
+".\objects\nrf_saadc.o"
+".\objects\app_error.o"
+".\objects\nrf_assert.o"
+--strict --scatter ".\Objects\vgm.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\vgm.map" -o .\Objects\vgm.axf

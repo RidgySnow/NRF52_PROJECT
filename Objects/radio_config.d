@@ -1,0 +1,16 @@
+.\objects\radio_config.o: RTE\nRF_Drivers\nRF52832_xxAA\radio_config.c
+.\objects\radio_config.o: RTE\nRF_Drivers\nRF52832_xxAA\radio_config.h
+.\objects\radio_config.o: C:\Users\vitgl\AppData\Local\Arm\Packs\NordicSemiconductor\nRF_Drivers\4.0.0-2.alpha\delay\nrf_delay.h
+.\objects\radio_config.o: C:\Users\vitgl\AppData\Local\Arm\Packs\NordicSemiconductor\nRF_DeviceFamilyPack\8.35.0\Device\Include\nrf.h
+.\objects\radio_config.o: C:\Users\vitgl\AppData\Local\Arm\Packs\NordicSemiconductor\nRF_DeviceFamilyPack\8.35.0\Device\Include\nrf52.h
+.\objects\radio_config.o: C:\Users\vitgl\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h
+.\objects\radio_config.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\radio_config.o: C:\Users\vitgl\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\radio_config.o: C:\Users\vitgl\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\radio_config.o: C:\Users\vitgl\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\radio_config.o: C:\Users\vitgl\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h
+.\objects\radio_config.o: C:\Users\vitgl\AppData\Local\Arm\Packs\NordicSemiconductor\nRF_DeviceFamilyPack\8.35.0\Device\Include\system_nrf52.h
+.\objects\radio_config.o: C:\Users\vitgl\AppData\Local\Arm\Packs\NordicSemiconductor\nRF_DeviceFamilyPack\8.35.0\Device\Include\nrf52_bitfields.h
+.\objects\radio_config.o: C:\Users\vitgl\AppData\Local\Arm\Packs\NordicSemiconductor\nRF_DeviceFamilyPack\8.35.0\Device\Include\nrf51_to_nrf52.h
+.\objects\radio_config.o: C:\Users\vitgl\AppData\Local\Arm\Packs\NordicSemiconductor\nRF_DeviceFamilyPack\8.35.0\Device\Include\nrf52_name_change.h
+.\objects\radio_config.o: C:\Users\vitgl\AppData\Local\Arm\Packs\NordicSemiconductor\nRF_DeviceFamilyPack\8.35.0\Device\Include\compiler_abstraction.h
